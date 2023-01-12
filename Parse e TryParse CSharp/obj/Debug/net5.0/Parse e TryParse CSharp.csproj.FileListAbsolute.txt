@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\bin\Debug\net5.0\Parse e TryParse CSharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\refint\Parse e TryParse CSharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\Parse e TryParse CSharp.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\Parse e TryParse CSharp\Parse e TryParse CSharp\obj\Debug\net5.0\ref\Parse e TryParse CSharp.dll
